@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="freight-dao" />
+        <module name="freight-service" />
+        <module name="freight-common" />
+        <module name="mbgDemo" />
+        <module name="freight-web" />
+        <module name="shiroDemo" />
+        <module name="freight-pojo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="freight" target="1.8" />
+      <module name="freight-common" target="1.8" />
+      <module name="freight-dao" target="1.8" />
+      <module name="freight-parent" target="1.8" />
+      <module name="freight-pojo" target="1.8" />
+      <module name="freight-service" target="1.8" />
+      <module name="freight-web" target="1.8" />
+      <module name="mbgDemo" target="1.8" />
+      <module name="shiroDemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

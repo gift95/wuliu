@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/freight/freight.iml" filepath="$PROJECT_DIR$/freight/freight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freight/freight-common/freight-common.iml" filepath="$PROJECT_DIR$/freight/freight-common/freight-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freight/freight-dao/freight-dao.iml" filepath="$PROJECT_DIR$/freight/freight-dao/freight-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freight-parent/freight-parent.iml" filepath="$PROJECT_DIR$/freight-parent/freight-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freight/freight-pojo/freight-pojo.iml" filepath="$PROJECT_DIR$/freight/freight-pojo/freight-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freight/freight-service/freight-service.iml" filepath="$PROJECT_DIR$/freight/freight-service/freight-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freight/freight-web/freight-web.iml" filepath="$PROJECT_DIR$/freight/freight-web/freight-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mbgDemo/mbgDemo.iml" filepath="$PROJECT_DIR$/mbgDemo/mbgDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiroDemo/shiroDemo.iml" filepath="$PROJECT_DIR$/shiroDemo/shiroDemo.iml" />
+    </modules>
+  </component>
+</project>

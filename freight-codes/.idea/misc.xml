@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/freight/freight-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/freight-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/freight/pom.xml" />
+        <option value="$PROJECT_DIR$/mbgDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/shiroDemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$PROJECT_DIR$/../mybatis-generator-config_1_0.dtd" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
